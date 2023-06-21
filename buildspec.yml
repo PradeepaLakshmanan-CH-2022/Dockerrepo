@@ -7,7 +7,7 @@ phases:
   pre_build:
     commands:
       - echo Restoring NuGet packages...
-      - dotnet restore
+      - dotnet restore --ignore-failed-sources
   build:
     commands:
       - echo Building the .NET 6 project...
