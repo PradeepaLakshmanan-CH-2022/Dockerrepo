@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RYAQJmCGUpkS/uGCjsvvc5b1TzVybAHm/kXHoYN/mYTFd5OdRSr9A482yw/E+Me5T898aPXOFVk1InFsjp8Sgw==",
+  "dgSpecHash": "zAxlnZpdFZilXMfS51ZuCI9heWtOOD/1ufwq+i6b9IQZVGk1KI7MZVhlKFjyxYDSyLTrkmEFQIfJOR1s56mfWg==",
   "success": true,
-  "projectFilePath": "C:\\TestingPipeline\\apidocker\\CICD_Test\\CICD_Test.csproj",
+  "projectFilePath": "C:\\AWSCICDPipeline\\Dockerrepo\\CICD_Test\\CICD_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Pradeepa.lakshmanan\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
