@@ -10,7 +10,7 @@ phases:
       - dotnet restore
   build:
     commands:
-      - echo Building the .NET API project...
+      - echo Building the .NET 6 project...
       - dotnet build --configuration Release
   post_build:
     commands:
